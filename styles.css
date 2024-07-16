@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+}
+.calculator {
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+.display {
+    background-color: #343a40;
+    color: white;
+    text-align: right;
+    padding: 20px;
+    font-size: 2rem;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.buttons .btn {
+    width: 25%;
+    height: 60px;
+    font-size: 1.5rem;
+}
